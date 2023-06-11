@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <title>JavaScript program to display result of a student</title>
@@ -62,6 +63,7 @@ Click me to find Grade Result of a student
 </h1>
 </body>
 </html>
+```
 
 ## OUTPUT
 ![assignment6](https://github.com/Krithikadini/Ex06_Web-Design/assets/127816336/3ca69328-2738-4c5f-b576-b51234f1b8dd)
